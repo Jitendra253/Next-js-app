@@ -197,3 +197,15 @@
 ->Make a folder and file for the Dynamic route
 ->Write code and navigate
 ->Get Dynamic Route Name.
+
+*Catch all Segments of Route:
+------------------------------
+->What are the segments of the route
+    ->A route segment is a single part of a URL path that is represented by a folder in the Next.js App Router. Each folder inside the app directory creates a route segment.
+->How to get all segments of Route
+    ->In Next.js App Router, if you want to get all segments of the current route, you can use useSelectedLayoutSegments().
+
+*Questions:
+------------
+->Get Route Name from url
+->How to get all segments of Route.
