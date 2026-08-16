@@ -7,7 +7,7 @@ const Login = () =>{
     }
     return(
         <div>
-            <h1>Hello login page</h1>
+            <h1 className="heading">Hello login page</h1>
             <button onClick={()=>router.push("/")}>Go to Home page</button>
             <br></br>
             <br></br>

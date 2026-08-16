@@ -1,7 +1,7 @@
 const LoginStudent= () =>{
     return (
         <div>
-            <h1>Login Student Page</h1>
+            <h1 className="heading">Login Student Page</h1>
         </div>
     )
 }
