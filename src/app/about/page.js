@@ -7,6 +7,12 @@ const About = () => {
         <div>
             <h1>Hello About us page</h1>
             <button onClick={()=>router.push("/")}>Go to Home Page</button>
+
+            <br/>
+            <Link href="/about/aboutcollege">Go to About College page</Link>
+            <br />
+            <br />
+            <Link href="/about/aboutstudent">Go to About Studetn page</Link>
         </div>
 
     )
