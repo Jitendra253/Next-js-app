@@ -181,10 +181,19 @@
 *Conditional Layout:
 ---------------------
 ->What is conditional Layout?
+    ->A conditional layout means showing a particular layout only when certain conditions are met, usually based on the route or section of the application.
 ->Get Route name by the hook
 ->Apply condition with route name
 
 *Questions:
 ------------
 ->How to write conditions jsx
+    ->In JSX, conditional rendering is commonly done using the ternary operator (? :) for two alternatives and the logical AND (&&) operator when we want to render something only when a condition is true. For complex conditions, we can use if statements before the JSX return.
 ->How to add conditional layout
+
+*Dynamic Routes:
+----------------
+->What are Dynamic Routes
+->Make a folder and file for the Dynamic route
+->Write code and navigate
+->Get Dynamic Route Name.
