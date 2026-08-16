@@ -209,3 +209,17 @@
 ------------
 ->Get Route Name from url
 ->How to get all segments of Route.
+
+
+*404 Page in Next.js
+---------------------
+->What is 404 page.
+    ->A 404 page is an error page shown when a user tries to access a URL or webpage that does not exist on the server.
+->Make the global 404 page
+->Make Route specific 404 page
+
+*Questions:
+-------------
+->Make 404 a segment
+->How to make 404 page
+->What is 404 page
