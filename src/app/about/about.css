@@ -1,0 +1,25 @@
+.login-menu{
+    display: flex;
+    background-color: rgb(130, 147, 147);
+    padding-block: 30px;
+}
+.login-menu li{
+    margin-left: 25px;
+    list-style-type: none;
+}
+.login-menu li a {
+    text-decoration: none;
+}
+.login-menu li a:hover {
+    text-decoration: none;
+    color: blue;
+}
+.login-menu h4{
+    margin: 0 !important;
+}
+
+.heading{
+    color: orange;
+    text-align: center;
+    margin-top: 50px;
+}

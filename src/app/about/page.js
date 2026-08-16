@@ -5,7 +5,7 @@ const About = () => {
     const router = useRouter();
     return (
         <div>
-            <h1>Hello About us page</h1>
+            <h1 className="heading">Hello About us page</h1>
             <button onClick={()=>router.push("/")}>Go to Home Page</button>
 
             <br/>
