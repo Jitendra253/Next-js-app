@@ -305,3 +305,14 @@
 -----------
 ->What is the Server Component in Next.js
 ->How do call API in server Components.
+
+*Client Component With Server Component:
+-----------------------------------------
+->Why do we need a client component inside server component.
+->Make Component.
+->Pass data in components.
+
+*Questions:
+-------------
+->How to perform Events with server component
+->Pass data between components
