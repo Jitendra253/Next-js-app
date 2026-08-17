@@ -223,3 +223,17 @@
 ->Make 404 a segment
 ->How to make 404 page
 ->What is 404 page
+
+
+*Middleware in Next.js
+--------------------------
+->What is middleware in Next js Routing
+->Make middleware in next js app
+->App config matcher
+->Interview Questions
+
+*Questions:
+-----------
+->What is Middleware in Next.js
+->Where can we use middleware
+->How to apply middleware in specific route
