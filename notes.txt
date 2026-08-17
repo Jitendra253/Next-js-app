@@ -237,3 +237,59 @@
 ->What is Middleware in Next.js
 ->Where can we use middleware
 ->How to apply middleware in specific route
+
+
+*Rendering in Next js:
+-----------------------
+->What is rendering?
+    ->Rendering means converting your React components into HTML that can be displayed in the browser.
+->Rendering Environments.
+     ->Rendering environments in Next.js refer to the environments where components are executed and rendered. Next.js primarily uses the server environment for Server Components and the browser/client environment for Client Components.
+
+->Component-level client and Server Rendering
+    ->Component-level client and server rendering in Next.js means individual components can be rendered in different environments. Components are Server Components by default, while "use client" makes a component a Client Component. This allows Next.js to keep most of the application on the server while sending JavaScript only for interactive components.
+->What is Pre-rendering?
+    ->Pre-rendering means generating the HTML of a page before it is sent to the browser.
+    ->Instead of making the browser create everything using JavaScript, Next.js can prepare the HTML in advance and send it to the user.
+->Static Generation?
+    ->Static Generation is a pre-rendering technique where Next.js generates the HTML of a page ahead of time, typically during the build process. The generated HTML can then be served quickly to users without rendering the page again for every request.
+->Server-side rendering?
+    ->Server-Side Rendering (SSR) is a rendering technique where Next.js generates the HTML for a page on the server for each request and sends the generated HTML to the browser. It is useful for dynamic or request-specific content and can provide good SEO and fast initial HTML delivery.
+
+*Next.js mainly supports these rendering approaches:
+----------------------------------------------------
+    ->1.Static Rendering (SSG)
+            HTML is generated ahead of time.
+            Usually very fast.
+            Good for pages whose content doesn't change frequently.
+    ->2.Dynamic Rendering (SSR)
+            HTML is generated on the server when a request comes in.
+            Useful for data that changes frequently or depends on the request.
+    ->3.Client-side Rendering (CSR)
+            JavaScript runs in the browser and generates/updates the UI.
+            Used with Client Components ("use client").
+    ->4.Streaming
+            Next.js can send parts of the UI to the browser as they become ready instead of waiting for the entire
+
+
+*Client Side vs PreRendering:
+-----------------------------
+->How to know rendering type
+->Check Result of rendering
+->Why this is Important
+->SEO with rendering
+->How is SEO Works?
+
+*Ferch Data in Client Component:
+--------------------------------
+->Create Product components
+->Make it client Component
+->Add hooks
+->Call API
+->Render Data
+
+*Questions:
+------------
+->What is client component in Next.js
+->How to make client component
+->Fetch data in client component
