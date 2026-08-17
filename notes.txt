@@ -293,3 +293,15 @@
 ->What is client component in Next.js
 ->How to make client component
 ->Fetch data in client component
+
+*Fetch Data in Server Component:
+--------------------------------
+->Create Server Components for Products
+->Make a function for call API.
+->Call API
+->Render Data.
+
+*Questions:
+-----------
+->What is the Server Component in Next.js
+->How do call API in server Components.
