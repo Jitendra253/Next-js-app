@@ -1,14 +1,12 @@
-'use client'
-import Link from "next/link";
-import styles from "./page.module.css"; 
-export default function Home() {
-
-  return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-          <h1>Home Page</h1>
-          <Link href="/productlist">Go to Product List</Link>
+export default function Home(){
+  return(
+    <div>
+      <main>
+        <h1 style={{backgroundColor:"yellow"}}>Style and CSS with Next js</h1>
+        <h2 className="main">Heading 2 in main page</h2>
+        <h3 className="main">Heading 3 in main </h3>
+        <p className="main">Some Paragraph</p>
       </main>
     </div>
-  );
+  )
 }

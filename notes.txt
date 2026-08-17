@@ -316,3 +316,27 @@
 -------------
 ->How to perform Events with server component
 ->Pass data between components
+
+*Css with Next-js:
+-------------------
+->Global Css
+->Inline Css
+->Update Style with Css
+
+*Questions:
+-------------
+->Can write Style tag in Next.js
+->Update style with useState;
+
+*CSS Modules with Next.js:
+--------------------------
+->How this different from normal Css
+->Make a Modular css file.
+->Apply CSS Modules
+->Multiple CSS Modules
+
+*Questions:
+--------------
+->What is CSS Module
+->How mudule css is different from normal css?
+->How to use module Css?
