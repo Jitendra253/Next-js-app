@@ -340,3 +340,31 @@
 ->What is CSS Module
 ->How mudule css is different from normal css?
 ->How to use module Css?
+
+*Condition with style:
+-----------------------
+->condition with class
+->condition with style attribute
+->css module with ID attribute
+->Extract class from CSS Module objectof
+
+*Questions:
+->How to apply css with condition.
+->Extract class from css module
+->How to apply condition with HTML tags.
+
+
+*Image Optimization:
+--------------------
+->Why use Image Component on next.js
+->Import and Use Image
+->Use html img tag
+->Config for Image from other domain
+->Import props in Next Image
+
+*Questions:
+-------------
+->How to optimize Image in next.js
+->Different between next.js image and html image
+->How to use public folder images
+->config for external image URL.
