@@ -368,3 +368,10 @@
 ->Different between next.js image and html image
 ->How to use public folder images
 ->config for external image URL.
+
+
+*Font Optimization:
+-------------------
+->Why use Next js font?
+->How to use a normal font?
+->How to use Next js font?
