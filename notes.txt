@@ -385,3 +385,9 @@
 
 *Questions:
 ->How to use dynamic title tag in next.js
+
+*Script Component in Next.js
+-----------------------------
+->What is Script Component.
+->How to use it?
+->Example of script tag.
