@@ -391,3 +391,17 @@
 ->What is Script Component.
 ->How to use it?
 ->Example of script tag.
+
+*Loader In Next.js
+-------------------
+->Why do we need a loader in next.js
+->Call API?
+->Render data of API on screen
+->Make loading screen
+->Check loader
+
+*Questions:
+------------
+->How to make a loader in Next.js
+->How to add loading screen in Next.js
+
