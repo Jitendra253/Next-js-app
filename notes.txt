@@ -412,3 +412,19 @@
 ->use of images
 ->use of css
 ->use of js
+
+
+*How to make Production Build:
+-------------------------------
+->What is Build
+->Type of build
+->What is Production Build
+->How to make production build
+->Run production build
+
+*Export Static HTML Page with build:
+-------------------------------------
+->What is Static HTML means?
+->Make some pages
+->Run build commands
+->Check HTML and Try to run it
