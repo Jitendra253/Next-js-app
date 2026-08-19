@@ -405,3 +405,10 @@
 ->How to make a loader in Next.js
 ->How to add loading screen in Next.js
 
+*Static Assets in the Next Js
+------------------------------
+->What are Static Assets?
+->How to use them in the next js code?
+->use of images
+->use of css
+->use of js
