@@ -375,3 +375,13 @@
 ->Why use Next js font?
 ->How to use a normal font?
 ->How to use Next js font?
+
+*Dynamic Meta Data:
+-------------------
+->What is Dynamic Meta data
+->What is the use of generateMetaData
+->How to use generateMetaData
+->Use generateMetaData with multiple route
+
+*Questions:
+->How to use dynamic title tag in next.js
