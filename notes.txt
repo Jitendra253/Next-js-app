@@ -428,3 +428,17 @@
 ->Make some pages
 ->Run build commands
 ->Check HTML and Try to run it
+
+*Static Site Generation(SSG):
+-------------------------------
+->What is SSG
+->Make a service file and call API
+->Display data from API
+->Make Dynamic Routing
+->Make build witth SSG 
+
+*Questions:
+--------------
+->How to call API
+->How to make SSG Build
+->use of generateStaticParams
