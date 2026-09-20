@@ -455,3 +455,14 @@
 -----------
 ->How many ways we have to Redirect?
 ->How to Redirect dynamic redirection with config file?
+
+
+*Environments Variables:
+-------------------------
+->Where are Environment Variables
+->How to Access Environment variable
+->Use Environment variable
+
+*Questions:
+-------------
+->How to use different configuration in different build
