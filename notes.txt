@@ -477,3 +477,7 @@
 -----------
 ->Make to make API route with Next.js
 ->Use of API Route in Next.js? 
+
+*Next Part Notes and Codes available on another repository:
+--------------------------------------------------------
+https://github.com/Jitendra253/next-api
