@@ -466,3 +466,14 @@
 *Questions:
 -------------
 ->How to use different configuration in different build
+
+*API Routes:
+------------
+->Use of API Routes?
+->Make API Route.
+->Test it with Postman
+  
+*Questions:
+-----------
+->Make to make API route with Next.js
+->Use of API Route in Next.js? 
