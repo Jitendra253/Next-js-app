@@ -442,3 +442,16 @@
 ->How to call API
 ->How to make SSG Build
 ->use of generateStaticParams
+
+
+*Redirection In Next.js:
+--------------------------
+->What is Redirection.
+->Redirect from component
+->Redirect from config File.
+->Dynamic Url Redirect
+
+*Questions:
+-----------
+->How many ways we have to Redirect?
+->How to Redirect dynamic redirection with config file?
